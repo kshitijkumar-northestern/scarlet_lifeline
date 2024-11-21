@@ -2,6 +2,7 @@ SCARLET LIFELINE API TESTS
 
 =========================
 
+http://localhost:8080/api/swagger-ui.html
 Base URL: http://localhost:8080/api
 
 1\. ADMIN ENDPOINTS
